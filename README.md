@@ -1,6 +1,6 @@
-# adwait-nas
+# Adwait-NAS
 
-A home NAS built on an old HP laptop with [OpenMediaVault](https://www.openmediavault.org/) (OMV), with users and permissions designed around least privilege and secure remote access over [Tailscale](https://tailscale.com/).
+A home Network Application Server built on an old HP laptop with [OpenMediaVault](https://www.openmediavault.org/) (OMV), with users and permissions designed around least privilege and secure remote access over [Tailscale](https://tailscale.com/).
 
 I'm a cybersecurity student and I built this to learn identity and access management (IAM) on a real system instead of only reading about it. This README documents the whole process in order, so you can follow it and build your own. It is a learning project, not a production setup, and I'll keep extending it (see [What's next](#whats-next)).
 
