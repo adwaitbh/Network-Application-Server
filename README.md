@@ -131,7 +131,7 @@ From the second computer on the same network, open the NAS in a browser using ei
 I kept the operating system and my data on separate devices:
 
 - **Internal 1 TB SSD:** operating system only
-- **USB flash drive (57 GB):** data
+- **USB flash drive (57 GB):** data (storage issue faced due to incompetance)
 
 To use a drive for shared data in OMV:
 
